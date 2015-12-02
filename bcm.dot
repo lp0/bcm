@@ -19,6 +19,7 @@ digraph bcm {
 	BCM6362 -> BCM6345;
 
 	BCM6368 -> BCM6345;
+	BCM6369 -> BCM6368;
 
 	BCM6816 -> BCM6345;
 
