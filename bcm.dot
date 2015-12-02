@@ -7,7 +7,7 @@ digraph bcm {
 
 	BCM6341 -> BCM6348 -> BCM6345 -> MIPS;
 
-	BCM63168 -> ARM;
+	BCM63881 -> BCM63168 -> ARM;
 
 	BCM6318 -> BCM63268
 
